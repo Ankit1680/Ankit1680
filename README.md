@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Ankit1680
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Java 
-- 💞️ I’m looking to collaborate on ...hackathon and startups
-- 📫 How to reach me ...LinkedIn
+# 💫 About Me:
+I am a tech enthusiasist.<br>Expertise in Redhat9, Docker Containerization,Amazon Web Services, 1x Azure Certified, Kubernetes
 
-https://www.linkedin.com/in/ankit-vishwakarma-1958a4251
 
-<!---
-Ankit1680/Ankit1680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-vishwakarma-1958a4251/) 
+
+# 💻 Tech Stack:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankit1680&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit1680&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1680&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ankit1680&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ankit1680&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
